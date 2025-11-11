@@ -9,9 +9,7 @@ import requests
 URL = "https://bpw09cbtfjlswpeq1hd1fgnxcffpuds6hiy0m0.onrender.com"
 
 API_KEY_TOKENS = [
-    "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",
-    "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",
-    "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"
+    "TU_API_TOKEN_AQUI", "TU_API_TOKEN_AQUI", "TU_API_TOKEN_AQUI_SE_PUEDEN_AÑADIR_MAS"
     ]
 # AES_KEY = b"TfaHj4p1Xmpr8awVxtraOkRb5QU0x0fL"
 # AES_IV = b"RopcdIcUQzZ6GE4q" # No se pudo utilizar esto
