@@ -27,11 +27,11 @@ pip install Nuitka
 --------
 ## Combinacion de teclas
 
-* __' + ¿ :__ Esta combinacion limpiara la pregunta que el usuario hara la ia.
-* __{ + } :__ Esta combinacion añadira lo que usuario haya copiado al payload que se enviara a la ia.
-* __inicio + fin :__ Esta combinacion escribira en el teclado lo que se encuentre en el payload
-* __. + - :__ Esta combinacion enviara al payload o la pregunta a la ia
-* __l + - :__ Esta combinacion copiara al portapapeles la respuesta de la ia, le usuario unicamente tendra que teclear ctrl + v para pegar la respuesta de la ia.
+* __' + ¿ :__ Esta combinacion limpiara la pregunta que el usuario hara a la ia.
+* __{ + } :__ Esta combinacion añadira lo que usuario tenga copiado en el portapapeles a la pregunta que se le enviara a la ia.
+* __inicio + fin :__ Esta combinacion escribira en el teclado lo que se encuentre en la pregunta que se le enviara a la ia.
+* __. + - :__ Esta combinacion enviara la pregunta a la ia.
+* __l + - :__ Esta combinacion copiara al portapapeles la respuesta de la ia, le usuario unicamente tendra que teclear Ctrl + V para pegar la respuesta de la ia en el portapapeles.
 ------
 
 ## Ejecucion
